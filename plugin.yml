@@ -1,0 +1,9 @@
+name: "CubePickaxe"
+version: "1.0.0"
+main: "CubePickaxe"
+api: "5.0.0"
+
+author: "rizdevv"
+
+load: "STARTUP"
+depend: ["CustomEnchantments"]
